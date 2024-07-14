@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|e:\\internship\\tatvasoft_ldce\\day-4\\internship-main-extracted\\internship-main\\internshipprojectapi\\internshipproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|solutionrelative:internshipproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|e:\\internship\\tatvasoft_ldce\\day-4\\internship-main-extracted\\internship-main\\internshipprojectapi\\internshipproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|solutionrelative:internshipproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|e:\\internship\\tatvasoft_ldce\\day-4\\internship-main-extracted\\internship-main\\internshipprojectapi\\dal\\migrations\\20240703103900_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20240703103900_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D762EAE-049F-4167-B85E-B2DEE5360E93}|BAL\\BAL.csproj|e:\\internship\\tatvasoft_ldce\\day-4\\internship-main-extracted\\internship-main\\internshipprojectapi\\bal\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D762EAE-049F-4167-B85E-B2DEE5360E93}|BAL\\BAL.csproj|solutionrelative:bal\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|e:\\internship\\tatvasoft_ldce\\day-4\\internship-main-extracted\\internship-main\\internshipprojectapi\\internshipproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|solutionrelative:internshipproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|e:\\internship\\tatvasoft_ldce\\day-4\\internship-main-extracted\\internship-main\\internshipprojectapi\\internshipproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|solutionrelative:internshipproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|e:\\internship\\tatvasoft_ldce\\day-4\\internship-main-extracted\\internship-main\\internshipprojectapi\\dal\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|solutionrelative:dal\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|e:\\internship\\tatvasoft_ldce\\day-4\\internship-main-extracted\\internship-main\\internshipprojectapi\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|e:\\internship\\tatvasoft_ldce\\day-4\\internship-main-extracted\\internship-main\\internshipprojectapi\\dal\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|solutionrelative:dal\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D762EAE-049F-4167-B85E-B2DEE5360E93}|BAL\\BAL.csproj|e:\\internship\\tatvasoft_ldce\\day-4\\internship-main-extracted\\internship-main\\internshipprojectapi\\bal\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D762EAE-049F-4167-B85E-B2DEE5360E93}|BAL\\BAL.csproj|solutionrelative:bal\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|e:\\internship\\tatvasoft_ldce\\day-4\\internship-main-extracted\\internship-main\\internshipprojectapi\\internshipproject\\internshipproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|solutionrelative:internshipproject\\internshipproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|e:\\internship\\tatvasoft_ldce\\day-4\\internship-main-extracted\\internship-main\\internshipprojectapi\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D762EAE-049F-4167-B85E-B2DEE5360E93}|BAL\\BAL.csproj|e:\\internship\\tatvasoft_ldce\\day-4\\internship-main-extracted\\internship-main\\internshipprojectapi\\bal\\bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D762EAE-049F-4167-B85E-B2DEE5360E93}|BAL\\BAL.csproj|solutionrelative:bal\\bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\DAL\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\UserDbContext.cs",
+              "ToolTip": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\DAL\\UserDbContext.cs",
+              "RelativeToolTip": "DAL\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:59:49.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\LoginRequest.cs",
+              "ToolTip": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "DAL\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:42:25.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:01:32.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Program.cs",
+              "RelativeDocumentMoniker": "InternshipProject\\Program.cs",
+              "ToolTip": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Program.cs",
+              "RelativeToolTip": "InternshipProject\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:34:40.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\InternshipProject\\appsettings.json",
+              "RelativeDocumentMoniker": "InternshipProject\\appsettings.json",
+              "ToolTip": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\InternshipProject\\appsettings.json",
+              "RelativeToolTip": "InternshipProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T10:35:04.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240703103900_CreateUserTable.cs",
+              "DocumentMoniker": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20240703103900_CreateUserTable.cs",
+              "ToolTip": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20240703103900_CreateUserTable.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:39:01.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\BAL\\UserService.cs",
+              "RelativeDocumentMoniker": "BAL\\UserService.cs",
+              "ToolTip": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\BAL\\UserService.cs",
+              "RelativeToolTip": "BAL\\UserService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAnwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:59:28.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\InternshipProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "InternshipProject\\appsettings.Development.json",
+              "ToolTip": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\InternshipProject\\appsettings.Development.json",
+              "RelativeToolTip": "InternshipProject\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T08:59:33.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\BAL\\IUserService.cs",
+              "RelativeDocumentMoniker": "BAL\\IUserService.cs",
+              "ToolTip": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\BAL\\IUserService.cs",
+              "RelativeToolTip": "BAL\\IUserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:30:16.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "InternshipProject\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "InternshipProject\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswEYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:33:35.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InternshipProject.csproj",
+              "DocumentMoniker": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\InternshipProject\\InternshipProject.csproj",
+              "RelativeDocumentMoniker": "InternshipProject\\InternshipProject.csproj",
+              "ToolTip": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\InternshipProject\\InternshipProject.csproj",
+              "RelativeToolTip": "InternshipProject\\InternshipProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T04:53:21.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T04:49:43.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BAL.csproj",
+              "DocumentMoniker": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\BAL\\BAL.csproj",
+              "RelativeDocumentMoniker": "BAL\\BAL.csproj",
+              "ToolTip": "E:\\internship\\TATVASOFT_LDCE\\DAY-4\\Internship-main-extracted\\Internship-main\\InternshipProjectAPI\\BAL\\BAL.csproj",
+              "RelativeToolTip": "BAL\\BAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T08:28:19.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
